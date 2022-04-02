@@ -4,7 +4,7 @@ class script(object):
     HELP_TXT = """𝘏𝘦𝘺 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
     ABOUT_TXT = """✯ 𝘔𝘺 𝘕𝘢𝘮𝘦: {}
-✯ 𝘊𝘳𝘦𝘢𝘵𝘰𝘳: <a href=https://t.me/Sanoob_Achu_18>𝘚𝘢𝘯𝘰𝘰𝘣 ⚡️</a>
+✯ 𝘊𝘳𝘦𝘢𝘵𝘰𝘳: https://t.me/Sovel_jaison>SOVEL JAISON ⚡️</a>
 ✯ 𝘓𝘪𝘣𝘳𝘢𝘳𝘺: 𝘗𝘺𝘳𝘰𝘨𝘳𝘢𝘮
 ✯ 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦: 𝘗𝘺𝘵𝘩𝘰𝘯 3
 ✯ 𝘋𝘢𝘵𝘢 𝘉𝘢𝘴𝘦: 𝘔𝘰𝘯𝘨𝘰 𝘋𝘉
@@ -12,10 +12,10 @@ class script(object):
 ✯ 𝘉𝘶𝘪𝘭𝘥 𝘚𝘵𝘢𝘵𝘶𝘴: 𝘝1.0.1[𝘉𝘌𝘛𝘈]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝘌𝘷𝘢 𝘔𝘢𝘳𝘪𝘢 𝘪𝘴 𝘢 𝘰𝘱𝘦𝘯 𝘴𝘰𝘶𝘳𝘤𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵. 
-- 𝘚𝘰𝘶𝘳𝘤𝘦 - https://github.com/EvamariaTG/EvaMaria  
+- 𝘚𝘰𝘶𝘳𝘤𝘦 - https://t.me/cinemahub00  
 
 <b>𝘊𝘳𝘦𝘥𝘪𝘵𝘴:</b>
-- <a href=https://t.me/ddrabit>Team 𝘉𝘐𝘌𝘉𝘌𝘙⚡️</a>"""
+- <a href=https://t.me/Sovel_jaison>SOVEL JAISON⚡️</a>"""
     MANUELFILTER_TXT = """𝘏𝘦𝘭𝘱: <b>Filters</b>
 
 - 𝘍𝘪𝘭𝘵𝘦𝘳 𝘪𝘴 𝘵𝘩𝘦 𝘧𝘦𝘢𝘵𝘶𝘳𝘦 𝘸𝘦𝘳𝘦 𝘶𝘴𝘦𝘳𝘴 𝘤𝘢𝘯 𝘴𝘦𝘵 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘦𝘥 𝘳𝘦𝘱𝘭𝘪𝘦𝘴 𝘧𝘰𝘳 𝘢 𝘱𝘢𝘳𝘵𝘪𝘤𝘶𝘭𝘢𝘳 𝘬𝘦𝘺𝘸𝘰𝘳𝘥 𝘢𝘯𝘥 𝘓𝘪𝘴𝘢 𝘸𝘪𝘭𝘭 𝘳𝘦𝘴𝘱𝘰𝘯𝘥 𝘸𝘩𝘦𝘯𝘦𝘷𝘦𝘳 𝘢 𝘬𝘦𝘺𝘸𝘰𝘳𝘥 𝘪𝘴 𝘧𝘰𝘶𝘯𝘥 𝘵𝘩𝘦 𝘮𝘦𝘴𝘴𝘢𝘨𝘦
