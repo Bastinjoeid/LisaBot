@@ -51,7 +51,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 
 ## Deploy
 You can deploy this bot anywhere.
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bastinjoeid/IMDb-Movie-Bot)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bastinjoeid/LisaBot)</br>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
