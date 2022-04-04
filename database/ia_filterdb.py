@@ -34,6 +34,11 @@ class Media(Document):
 
 async def save_file(media):
     """Save file in database"""
+    
+    @Lisabot.on_callback_query(Worker.regex(r'^autofilter_delete'))
+async def delete_all_index_confirm(bot, message):
+    await Media.collection.drop()
+    await message.message.edit('Succesfully Deleted All The Indexed Files.')
 
     # TODO: Find better way to get same file_id for same media to avoid duplicates
     file_id, file_ref = unpack_new_file_id(media.file_id)
